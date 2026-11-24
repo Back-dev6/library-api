@@ -20,7 +20,7 @@ Dữ liệu lưu trong bộ nhớ nên sẽ mất khi khởi động lại serve
 Yêu cầu: Python 3.10 trở lên.
 
 ```bash
-git clone <link-repo>
+git clone https://github.com/Back-dev6/library-api.git
 cd library-api
 python -m venv .venv
 # Windows:      .venv\Scripts\activate
